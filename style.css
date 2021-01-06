@@ -1,0 +1,182 @@
+body{
+    margin: 0px;
+}
+.section-height{
+    height: 600px;
+}
+
+h1{
+    font-family: 'Bebas Neue', cursive;
+    font-size: 48px;
+    color: #363958;
+    font-weight: 200;
+}
+#main-heading{
+    font-size: 84px;
+    line-height: 20px;
+}
+.heading-highlighter{
+    color: #FF8367;
+}
+p{
+    font-family: 'Roboto', sans-serif;
+    color: #6C6C6C;
+    padding-bottom: 20px;
+}
+
+.button-link{
+    text-decoration: none;
+    background-image: linear-gradient(45deg,lightsalmon, tomato);
+    padding: 10px 30px;
+    border-radius: 3px;
+    color: white;
+    font-weight: 400; 
+    font-family:'Roboto', sans-serif; 
+    
+
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding: 2%;
+}
+.half-width img{
+    width: 100%;
+}
+section{
+    height: 750px;
+}
+.different-project{
+    box-shadow: 1px 1px 10px rgb(201, 201, 201);
+    border-radius: 8px;
+    height: 374px;
+    width: 370px;
+    margin-left: 4%;
+    background-color: white;
+    float: left;
+}
+.different-project img{
+    width: 343px;
+    height: 213px;
+    padding:14px;
+}
+.project{
+    background-color: #E5E5E5;
+}
+.center-heading{
+    text-align: center;
+    padding-top: 100px;
+    padding-bottom: 20px;
+}
+.diff-project-head{
+    font-family: 'Roboto', sans-serif;
+    color: #363958;
+    font-size: 24px;
+    padding-left: 20px;
+
+}
+.project p{
+    padding-left: 20px;
+}
+.inquiry{
+    border: 2px solid white;
+    height: 225px;
+    width: 906px;
+    margin: 100px 267px 100px 267px;
+    border-radius: 20px;
+    background-image: url("images/inquiry-bg.png");
+    background-repeat: no-repeat;
+    background-size:cover;
+    
+}
+.inquiry-left{
+    width: 40%;
+    float: left;
+    margin: 50px 180px 78px 74px;
+}
+.inquiry-right{
+    width:40%
+    float:left;
+    margin: 110px 74px 78px 74px;
+}
+.inquiry-left h1{
+    color: white;
+}
+#inquiry-height{
+    height: 400px;
+}
+.icon{
+    float: left;
+}
+.skills{
+    background-image: url("images/skills.jpg");
+   
+}
+#skills-heading{
+    border: 2px solid white;
+    height: 60px;
+    width: 200px;
+    margin: 2px 100px 2px 550px;
+    background-color: white;
+
+}
+.skills-catagory{
+    box-shadow: 10px 10px 40px rgb(62, 63, 2);
+    border-radius: 8px;
+    height: 374px;
+    width: 370px;
+    margin-left: 4%;
+    background-color: white;
+    float: left;
+
+}
+.skills-catagory img{
+    width: 343px;
+    height: 213px;
+    padding:14px;
+}
+.skills-catagory p{
+    text-align: center;
+}
+.skills-catagory-head{
+    font-family: 'Roboto', sans-serif;
+    color: orange;
+    font-size: 24px;
+    padding-left: 20px;
+    text-align: center;
+}
+#mail{
+    height:300px ;
+}
+#skills-height{
+    margin-top: 60px;
+}
+
+
+
+#stay-connected{
+    color: #696871;
+    font-family: 'Bebas Neue', cursive;
+    text-align: center;
+    font-size: 24px;
+    margin-top: 100px;
+}
+#email{
+    color: #363958;
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+    font-size: 36px;
+    font-weight:bold;
+}
+.icon{
+    width: 40px;
+    height: 40px;
+    margin: 0px 20px 0px 20px;
+}
+.icon img{
+    width:100%;
+}
+#center-icon{
+    margin-left: 40%;
+}
